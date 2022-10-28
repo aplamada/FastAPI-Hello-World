@@ -12,3 +12,5 @@ c.ServerProxy.servers = {
 }
 c.NotebookApp.token = ''
 c.NotebookApp.password = ''
+c.ServerApp.token = ''
+c.ServerApp.password = ''
