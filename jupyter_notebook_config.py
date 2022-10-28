@@ -10,7 +10,7 @@ c.ServerProxy.servers = {
         'absolute_url': False,
     }
 }
-c.NotebookApp.token = ''
-c.NotebookApp.password = ''
-c.ServerApp.token = ''
-c.ServerApp.password = ''
+# c.NotebookApp.token = ''
+# c.NotebookApp.password = ''
+# c.ServerApp.token = ''
+# c.ServerApp.password = ''
