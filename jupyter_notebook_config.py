@@ -10,3 +10,5 @@ c.ServerProxy.servers = {
         'absolute_url': False,
     }
 }
+c.NotebookApp.token = ''
+c.NotebookApp.password = ''
