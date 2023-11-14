@@ -2,3 +2,4 @@ jupyter-server-proxy
 fastapi
 uvicorn[standard]
 jupyterlab-link-share
+jupyter_collaboration
