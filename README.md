@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aplamada/FastAPI-Hello-World/HEAD)
+
 # FastAPI Hello World
 
 Similar to [FastAPI Hello World](https://renkulab.io/projects/andrei.plamada/fastapi-hello-world).
